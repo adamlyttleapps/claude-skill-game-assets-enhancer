@@ -67,14 +67,14 @@ is written to reuse and edit sprites rather than regenerate wherever possible.
 **As a personal skill (available in every project):**
 
 ```bash
-git clone https://github.com/adamlyttle/claude-skill-game-assets-enhancer.git \
+git clone https://github.com/adamlyttleapps/claude-skill-game-assets-enhancer.git \
   ~/.claude/skills/game-assets-enhancement
 ```
 
 **Or as a project skill (checked into one repo):**
 
 ```bash
-git clone https://github.com/adamlyttle/claude-skill-game-assets-enhancer.git \
+git clone https://github.com/adamlyttleapps/claude-skill-game-assets-enhancer.git \
   .claude/skills/game-assets-enhancement
 ```
 
